@@ -1,0 +1,7 @@
+[Row(count(1)=2715066)]
+[Row(count(DISTINCT username)=499822)]
+[Row(count(DISTINCT country_name)=70)]
+[Row(count(DISTINCT place_name)=23121)]
+[Row(count(DISTINCT language)=46)]
+[Row(min(latitude)=u'-0.00014702', min(longitude)=u'-0.1766283')]
+[Row(max(latitude)=u'9.99999316', max(longitude)=u'90.3730211')]
